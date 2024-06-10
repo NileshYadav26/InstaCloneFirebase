@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "957714622787",
+    "project_id": "fir-realtimedatabase-18359",
+    "storage_bucket": "fir-realtimedatabase-18359.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957714622787:android:1ca4ae004b51e2fcdc27f6",
+        "android_client_info": {
+          "package_name": "com.nilesh.firebaserealtimedatabase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGcpPWJhuUM16fXZZJ3_TEhg2T_Cjb91c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
